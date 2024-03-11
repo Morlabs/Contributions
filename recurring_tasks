@@ -1,32 +1,46 @@
-## Contribution Provider - Proof of Contribution Table for recurring tasks
+# Contribution Guidelines
 
-**Before adding a pull request to this table [please read the BEST PRACTICES GUIDE](https://github.com/Morlabsai/Contributions/)**
+## How to Contribute
 
-## Structuring your Code Contributions.
-All Code Contributions should include the following five elements:
-1. The Ethereum / Wallet address to be rewarded.
-2. Role Title 
-3. Role Category (Design, Development, User Research, Product, Project Management, Finance, Strategy, Tokenomics, Recruitment, Operations, Community management, Marketing, Sales, Tech Research)
-4. Link to Role Responsibilities.
-5. Estimated value in USD (monthly)
-6. Link to contributions (where the community can track your progress and see your work) 
+### Step 1: Identifying Contribution Opportunities
 
-Example fields below: 
+At Mor Labs, contributions are the backbone of our progress and innovation. Whether it’s through code submissions, enhancing documentation, proposing new Morpheus Request for Comments (MRCs), or supporting Mor Labs operations, your contribution is invaluable. We encourage you to leverage your unique skills and interests to contribute in ways you find most impactful.
 
-| Wallet Address                             | Role Title | Role Category  | Role Responsibilities	| Estimated monthly Value USD |  Link to contributions | 
-| 0x98eFf980C57c9D333340b3856481bF7B8698987c | Discord community manager | Development | https://github.com/Morlabsai/Contributions/roles |	4500 |  Discord community support / 40 hours per week |
+#### Types of Contributions:
+- [Single Task](https://github.com/Morlabsai/Contributions/blob/main/single_tasks.md): Defined projects or tasks with a specific goal in mind.
+- [Recurring tasks](https://github.com/Morlabsai/Contributions/blob/main/recurring-tasks.md): Ongoing responsibilities or roles that require continuous attention.
 
-Please include the "pipe" `|` symbol correctly as seen above so your contribution will format with the table.
+Your contributions can either be predefined tasks listed on platforms like Morpheus Dework, within Morpheus GitHub repositories, or self-initiated projects that you believe will add value to Mor Labs.
 
-> [!NOTE]
-> - Create a pull request and add a row to the following table.  
-> - If you are submitting multiple contributions, please create multiple pull requests - one pull request per contribution.  
-> - Only add your link at the bottom, and do not alter any other rows.   
-> - Detail the work you are contributing to Morpheus. You must include a link to the work for the work to be considered. Examples of proof include links to pull requests, github issues, or other easily verifyable information.  
-> - It is your responsibility to make the proof easily verifiable. Don't assume reviewers of this table have an understanding of your code. Explain it simply. Limit your descriptions to 250 words.
-> -  You need a wallet like Metamask that can receive Ethereum based tokens. MOR Labs token is an ERC-20 type token. Also must support Arbitrum.
+### Step 2: Contribution Submission Process
 
-| Wallet Address | Role Title | Role Category  | Role Responsibilities	| Estimated monthly Value USD |  Link to contributions |                                                                                                                                                                                                                        |
-| -------------- | ------------ |----------  |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+The ethos of Mor Labs centers around contribution and reward: deliver value first and receive recognition and rewards based on the impact of your work.
 
-| 0x98eFf980C57c9D333340b3856481bF7B8698987c | Discord community manager | Development | https://github.com/Morlabsai/Contributions/roles |	4500 |  Discord community support / 40 hours per week |
+#### Required Submission Details:
+- Contribution Type: Specify whether it’s a single or recurring task.
+- Ethereum/Wallet Address: For receiving your rewards (if you’re working with multiple others on a specific project, include the multisig address)
+- Relevant Links: Include links to any issues, tasks, or responsibilities your contribution addresses alongside the link to your actual contribution.
+- Expected Value: Denominate the value of your contribution in USD (or the monthly recurring value if it's a Recurring Task).
+- Contribution Description: Detail the nature and impact of your contribution.
+
+Before submitting, review existing tasks to ensure your contribution is unique or offers additional value over existing solutions. If it’s not unique or is a duplicate of a prior or ongoing 3rd party contribution, you can still make the contribution but should be mindful of the increased competition. This competitive aspect ensures the highest quality contributions are recognized and rewarded.
+
+### Step 3: Rewarding Contributions
+
+Upon submission, include your expected USD value for the contribution. The Contribution Review Guild (CRG) will assess each submission, determining the reward based on its value to Mor Labs. Rewards may vary significantly from the expected value, reflecting the CRG’s assessment of the contribution's impact.
+
+Note: The CRG, due to the volume of submissions, may not provide individual feedback for each contribution but reserves the right to do so at their discretion.
+
+## Governance and Fairness
+
+Mor Labs is committed to decentralized decision-making, utilizing Hats Protocol for governance. This ensures the community plays a crucial role in guiding the project’s direction, enhancing transparency and accountability.
+
+### Conflict Resolution
+
+In the event of disputes, particularly regarding CRG decisions, the Arbitration Guild (AG) offers a structured resolution process. AG members, adhering to the Mor Labs DAO Constitution, ensure decisions align with community interests and project longevity.
+
+## Making Your Contribution Count
+
+At Mor Labs, we strive for a collaborative, transparent, and rewarding environment. Your contributions not only drive innovation but also shape the future of our project. By following this guide, you’ll help ensure that your efforts align with our goals and standards, maximizing the impact and recognition of your work.
+
+Let’s work on the DeAI revolution together!
