@@ -138,5 +138,5 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
 
 ---
 
-Please note that this list is subject to change as the needs of the DAO evolve. For more detailed information on each role, how to apply, or to suggest new positions, please refer to our [Contribution Guidelines](LINK_TO_CONTRIBUTION_GUIDELINES) or contact us directly through our communication channels.
+Please note that this list is subject to change as the needs of the DAO evolve. For more detailed information on each role, how to apply, or to suggest new positions, please refer to our [Contribution Guidelines](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/submission_guide_recurring_tasks.md) or contact us directly through our communication channels.
 
