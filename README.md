@@ -17,7 +17,7 @@ To understand types of tasks that you can contribute, you can review the followi
 
 - [Morpheus Dework](https://app.dework.xyz/morpheus/)
 - [Morpheus Improvement Proposals](https://github.com/Morlabs/MIPS/tree/main)
-- [Funded Pools]
+- [Morpheus Projects](https://github.com/Morlabs/Projects/blob/main/approved_projects.md)
 
 This said, the above links are for guidance only. We recommend the following: 
 
