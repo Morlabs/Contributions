@@ -1,46 +1,51 @@
 # Contribution Guidelines
 
+# Introduction
+
+Welcome to Mor Labs! This guide is designed to help you navigate through the contribution process, whether you're looking to complete a single task or take on a recurring role. By leveraging your unique skills and interests, you can significantly impact our progress and innovation in the DeAI revolution. Here, you'll find everything you need to identify opportunities, submit contributions, and understand the rewards process.
+
 ## How to Contribute
 
 ### Step 1: Identifying Contribution Opportunities
 
-At Mor Labs, contributions are the backbone of our progress and innovation. Whether it’s through code submissions, enhancing documentation, proposing new Morpheus Request for Comments (MRCs), or supporting Mor Labs operations, your contribution is invaluable. We encourage you to leverage your unique skills and interests to contribute in ways you find most impactful.
+At Mor Labs, your contributions are crucial to our development and growth. You can contribute through:
 
-#### Types of Contributions:
-- [Single Task](https://github.com/Morlabs/Contributions/blob/main/single_tasks.md): Defined projects or tasks with a specific goal in mind.
-- [Recurring tasks](https://github.com/Morlabs/Contributions/blob/main/recurring_tasks): Ongoing responsibilities or roles that require continuous attention.
+- **Single Task Contributions:** Defined projects or tasks with a specific goal.
+- **Recurring Task Contributions:** Ongoing responsibilities requiring continuous attention.
 
-Your contributions can either be predefined tasks listed on platforms like Morpheus Dework, within Morpheus GitHub repositories, or self-initiated projects that you believe will add value to Mor Labs.
+Look for opportunities on platforms like Morpheus Dework, within our GitHub repositories, or initiate projects that align with our objectives.
 
 ### Step 2: Contribution Submission Process
 
-The ethos of Mor Labs centers around contribution and reward: deliver value first and receive recognition and rewards based on the impact of your work.
+To submit a contribution, include the following details:
 
-#### Required Submission Details:
-- Contribution Type: Specify whether it’s a single or recurring task.
-- Ethereum/Wallet Address: For receiving your rewards (if you’re working with multiple others on a specific project, include the multisig address)
-- Relevant Links: Include links to any issues, tasks, or responsibilities your contribution addresses alongside the link to your actual contribution.
-- Expected Value: Denominate the value of your contribution in USD (or the monthly recurring value if it's a Recurring Task).
-- Contribution Description: Detail the nature and impact of your contribution.
+- **Contribution Type:** Single or recurring task.
+- **Ethereum/Wallet Address:** For reward reception. Include multisig if applicable.
+- **Relevant Links:** Any pertinent issues, tasks, or your contribution link.
+- **Expected Value:** In USD. For recurring tasks, indicate monthly value.
+- **Contribution Description:** Detail the impact and nature of your work.
 
-Before submitting, review existing tasks to ensure your contribution is unique or offers additional value over existing solutions. If it’s not unique or is a duplicate of a prior or ongoing 3rd party contribution, you can still make the contribution but should be mindful of the increased competition. This competitive aspect ensures the highest quality contributions are recognized and rewarded.
+Ensure your contribution is unique or adds value beyond existing solutions. The competitive nature of our system promotes quality and innovation.
 
 ### Step 3: Rewarding Contributions
 
-Upon submission, include your expected USD value for the contribution. The Contribution Review Guild (CRG) will assess each submission, determining the reward based on its value to Mor Labs. Rewards may vary significantly from the expected value, reflecting the CRG’s assessment of the contribution's impact.
-
-Note: The CRG, due to the volume of submissions, may not provide individual feedback for each contribution but reserves the right to do so at their discretion.
+Submit your contribution along with the expected USD value. The Contribution Review Guild (CRG) will determine the reward based on its impact, which may vary from your expectations.
 
 ## Governance and Fairness
 
-Mor Labs is committed to decentralized decision-making, utilizing Hats Protocol for governance. This ensures the community plays a crucial role in guiding the project’s direction, enhancing transparency and accountability.
+Our governance is driven by the Hats Protocol, ensuring community-led decision-making. This enhances transparency and accountability across Mor Labs.
 
-### Conflict Resolution
+## Conflict Resolution
 
-In the event of disputes, particularly regarding CRG decisions, the Arbitration Guild (AG) offers a structured resolution process. AG members, adhering to the Mor Labs DAO Constitution, ensure decisions align with community interests and project longevity.
+For disputes, especially regarding CRG decisions, the Arbitration Guild (AG) provides a structured resolution process, aligning with the Mor Labs DAO Constitution and community interests.
 
-## Making Your Contribution Count
+## Recurring Task Applications
 
-At Mor Labs, we strive for a collaborative, transparent, and rewarding environment. Your contributions not only drive innovation but also shape the future of our project. By following this guide, you’ll help ensure that your efforts align with our goals and standards, maximizing the impact and recognition of your work.
+For those interested in recurring tasks, more thorough vetting is required due to their ongoing nature.
 
-Let’s work on the DeAI revolution together!
+### Application Process
+
+- **Review Available Positions:** Check `recurring_task_positions.md` for approved roles.
+- **Fill Out the Application Template:** Copy and complete the Recurring Task Application Template with your details.
+- **Submit Your Application:** Create a pull request for review. If accepted, it will be merged.
+
