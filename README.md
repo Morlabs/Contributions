@@ -53,13 +53,4 @@ Our governance is powered by [Hats Protocol](https://hatsprotocol.xyz), ensuring
 
 For disputes, especially regarding CRG decisions, the Arbitration Guild (AG) provides a structured resolution process, aligning with the [Mor Labs DAO Constitution](https://github.com/Morlabs/DAO) and community interests.
 
-## Recurring Task Applications
-
-For those interested in recurring tasks, more thorough vetting is required due to their ongoing nature.
-
-### Application Process
-
-- **Review Available Positions:** Check `recurring_task_positions.md` for approved roles.
-- **Fill Out the Application Template:** Copy and complete the Recurring Task Application Template with your details.
-- **Submit Your Application:** Create a pull request for review. If accepted, it will be merged.
 
