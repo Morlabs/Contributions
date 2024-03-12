@@ -9,6 +9,11 @@ Copy this template, fill in your information, and submit it as a pull request to
 ## Position Applied For
 - **Role Title:** [The title of the role you're applying for]
 
+## Proof of Contributor
+- Task 1 (link to approved Single Task)
+- Task 2 (link to approved Single Task)
+- Task 3 (link to approved Single Task)
+
 ## Experience
 - Briefly describe your relevant experience and past contributions that make you a good fit for this role.
 
