@@ -12,4 +12,4 @@ This document lists all the recurring task positions that have been previously a
 | Treasury Manager      | [GitHubName]            | [DiscordName]            | `[WalletAddress]`    | $[Amount]                     | [LinkToApplication]          |
 
 
-For more information on these roles or to apply, please review our [Contribution Guidelines](LINK_TO_CONTRIBUTION_GUIDELINES) and follow the application process outlined therein. If you have ideas for new recurring tasks that could benefit Mor Labs, we encourage you to submit an amendment to the [Open Positions](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/open_positions.md)
+For more information on these roles or to apply, please review our [Submission Guideline for Recurring Tasks](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/submission_guide_recurring_tasks.md) and follow the application process outlined therein. If you have ideas for new recurring tasks that could benefit Mor Labs, we encourage you to submit an amendment to the [Open Positions](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/open_positions.md)
