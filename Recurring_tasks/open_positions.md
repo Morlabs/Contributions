@@ -101,7 +101,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
 
 ### Multi-Agent Framework Tech Lead
 - **Role Name:** Multi-Agent Framework Tech Lead
-- **Description:** Leads the development and integration of multiple smart agents to work collaboratively towards common goals within the DAO's ecosystem.
+- **Description:** Leads the development and integration of multiple smart agents to work collaboratively towards common goals, levaraging [CrewAI](https://www.crewai.io/) or a similar multi-agent framework. 
 - **Responsibilities:**
   - Architect and develop frameworks that enable seamless interaction and cooperation among smart agents.
   - Ensure the scalability and security of multi-agent systems.
