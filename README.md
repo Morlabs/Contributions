@@ -19,7 +19,7 @@ Note that Recurring Task Contributions are only available for contributors to ha
 
 A Single Task Contribution is compensated with a fixed amount based on an isolated task (ex: Translate whitepaper to Russian). By contrast, a Recurring Task Contribution is rewarded with a continous stream to reflect that there are ongoing responsibilities to this recurring task that require continous attention (ex: Discord community management). 
 
-### Step 1: Submission Process
+### Step 2: Submission Process
 
 #### Single Task Contributions 
 
