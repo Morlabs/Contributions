@@ -13,11 +13,17 @@ At Mor Labs, your contributions are crucial to our development and growth. You c
 - **Single Task Contributions:** Defined projects or tasks with a specific goal.
 - **Recurring Task Contributions:** Ongoing responsibilities requiring continuous attention.
 
-Look for opportunities on platforms like Morpheus Dework, within our GitHub repositories, or initiate projects that align with our objectives.
+To understand types of tasks that you can contribute, you can review the following for inspiration: 
 
-Note that Recurring Task Contributions are only available for contributors to have at least 3 approved Single Task Contributions. 
+- [Morpheus Dework](https://app.dework.xyz/morpheus/)
+- [Morpheus Improvement Proposals](https://github.com/Morlabs/MIPS/tree/main)
+- [Funded Pools]
 
-A Single Task Contribution is compensated with a fixed amount based on an isolated task (ex: Translate whitepaper to Russian). By contrast, a Recurring Task Contribution is rewarded with a continous stream to reflect that there are ongoing responsibilities to this recurring task that require continous attention (ex: Discord community management). 
+This said, the above links are for guidance only. We recommend the following: 
+
+1. Check the [Approved Projects](https://). Each Approved Project has a dedicated budget as well as a designated lead. Contact them on Discord to see where they might need help. 
+2. If there is a smallish task that you would like contribute (ex: a few hours of work), just go and do it. Then submit it to the [Single Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/single_tasks.md)
+3. If the task or project is larger in scope and/or would require the input of multiple contributors or stakeholders, including such as if there are technical dependencies, create a [Morpheus Improvement Proposals](https://github.com/Morlabs/MIPS/tree/main)  
 
 ### Step 2: Submission Process
 
