@@ -23,7 +23,7 @@ A Single Task Contribution is compensated with a fixed amount based on an isolat
 
 #### A) Single Task Contributions 
 
-To submit a Single Task Contribution, use the [Single Task Proof of Submission Table] (https://github.com/Morlabs/Contributions/blob/main/single_tasks.md). 
+To submit a Single Task Contribution, use the [Single Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/single_tasks.md). 
 
 You will be asked to submit the following:
 
@@ -36,7 +36,7 @@ Ensure your contribution is unique or adds value beyond existing solutions. The 
 
 #### B) Recurring Task Contributions 
 
-To submit a Recurring Task Contribution, use the [Recurring Task Proof of Submission Table] (https://github.com/Morlabs/Contributions/blob/main/recurring_tasks.md).
+To submit a Recurring Task Contribution, use the [Recurring Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/recurring_tasks.md).
 
 
 You can view a list of the approved Recurring Task Contributors here. If you'd like to be included on this list, you can make your application here. Note that Recurring Task Contributions are only available for contributors to have at least 3 approved Single Task Contributions. 
@@ -47,7 +47,7 @@ To submit a Recurring Task Contribution for a given month, complete the Monthly 
 
 ## Governance and Fairness
 
-Our governance is powered by [Hats Protocol] (https://hatsprotocol.xyz), ensuring community-led decision-making. This enhances transparency and accountability across Mor Labs.
+Our governance is powered by [Hats Protocol](https://hatsprotocol.xyz), ensuring community-led decision-making. This enhances transparency and accountability across Mor Labs.
 
 ## Conflict Resolution
 
