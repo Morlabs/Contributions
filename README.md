@@ -38,12 +38,13 @@ Ensure your contribution is unique or adds value beyond existing solutions. The 
 
 To submit a Recurring Task Contribution, use the [Recurring Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/recurring_tasks.md).
 
+Important, **before submitting a recurring task**: 
 
-You can view a list of the approved Recurring Task Contributors here. If you'd like to be included on this list, you can make your application here. Note that Recurring Task Contributions are only available for contributors to have at least 3 approved Single Task Contributions. 
-
-Stream adjustments, including the creation, amendment or termination of streams to Recurring Task Contributors are made at the end of each month. 
-
-To submit a Recurring Task Contribution for a given month, complete the Monthly submission form. Note, you are required to make your monthly submission within 7 days of the end of each month, otherwise your stream will be cancelled. 
+1. Only Contributors that have **3 or more approved Single Task Contributions** will be eligible to be appointed for a Recurring Task
+2. You can view a list of the [Approved Recurring Task Contributors](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/recurring_task_positions.md). If you'd like to be included on this list, [**submit an application**](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/applications_template.md).
+3. View a list of community curated [Open Positions](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/open_positions.md). 
+4. Stream adjustments, including the creation, amendment or termination of streams to Recurring Task Contributors are made at the end of each month. 
+5. Being appointed for a Recurring Task still requires monthly work submissions. You are required to make your monthly submission within 7 days of the end of each month, otherwise your stream will be cancelled. 
 
 ## Governance and Fairness
 
