@@ -44,9 +44,8 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Manage social media presence and public relations.
   - Coordinate with other teams to ensure alignment of messaging and branding.
 
-# Open Positions at Mor Labs DAO
 
-## 1. Node Repository Manager
+### Node Repository Manager
 - **Role Name:** Node Repository Manager
 - **Description:** Manages the Node repository, ensuring its development aligns with Mor Labs DAO's technical and strategic goals.
 - **Responsibilities:**
@@ -55,7 +54,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Act as the primary point of contact for the Node repository.
 - **GitHub Repo:** [Morlabs/Node](https://github.com/Morlabs/Node)
 
-## 2. Dashboard Repository Manager
+### Dashboard Repository Manager
 - **Role Name:** Dashboard Repository Manager
 - **Description:** Oversees the Dashboard repository, focusing on the development of user interfaces and experiences.
 - **Responsibilities:**
@@ -64,7 +63,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Coordinate with other roles for seamless integration of backend services.
 - **GitHub Repo:** [Morlabs/DashBoard](https://github.com/Morlabs/DashBoard)
 
-## 3. Morpheus Mac Repository Manager
+### Morpheus Mac Repository Manager
 - **Role Name:** Morpheus Mac Repository Manager
 - **Description:** Leads the Morpheus Mac repository, ensuring the project is optimized for macOS environments.
 - **Responsibilities:**
@@ -73,7 +72,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Liaise with the technical team for cross-platform development strategies.
 - **GitHub Repo:** [Morlabs/Morpheus](https://github.com/Morlabs/Morpheus)
 
-## 4. Smart Contracts Lead
+### Smart Contracts Lead
 - **Role Name:** Smart Contracts Lead
 - **Description:** Directs the development and security of the Smart Contracts repository, ensuring alignment with blockchain best practices.
 - **Responsibilities:**
@@ -82,7 +81,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Facilitate integration of smart contracts with other DAO operations.
 - **GitHub Repo:** [Morlabs/SmartContracts](https://github.com/Morlabs/SmartContracts)
 
-## 5. Smart Agents Lead
+### Smart Agents Lead
 - **Role Name:** Smart Agents Lead
 - **Description:** Oversees the Smart Agents repository, focusing on the development of autonomous agents for the DAO.
 - **Responsibilities:**
@@ -91,7 +90,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Ensure the interoperability of smart agents with the DAO's ecosystem.
 - **GitHub Repo:** [Morlabs/SmartAgents](https://github.com/Morlabs/SmartAgents)
 
-## 6. Morpheus Linux Repository Manager
+### Morpheus Linux Repository Manager
 - **Role Name:** Morpheus Linux Repository Manager
 - **Description:** Manages the Morpheus Linux repository, optimizing the project for Linux environments.
 - **Responsibilities:**
@@ -100,9 +99,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Collaborate with other technical leads for cross-platform consistency.
 - **GitHub Repo:** [Morlabs/MorpheusLinux](https://github.com/Morlabs/MorpheusLinux)
 
-## Additional Roles
-
-### 7. Multi-Agent Framework Tech Lead
+### Multi-Agent Framework Tech Lead
 - **Role Name:** Multi-Agent Framework Tech Lead
 - **Description:** Leads the development and integration of multiple smart agents to work collaboratively towards common goals within the DAO's ecosystem.
 - **Responsibilities:**
@@ -111,7 +108,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Facilitate research and development for advanced agent coordination techniques.
 - **Key Project Area:** Smart Agents Collaboration
 
-### 8. Agent Subnet Liquidity Pools Manager
+### Agent Subnet Liquidity Pools Manager
 - **Role Name:** Agent Subnet Liquidity Pools Manager
 - **Description:** Oversees investment in specific smart agents, managing contributions to their governance and liquidity pools to enhance their functionality and utility within the DAO.
 - **Responsibilities:**
@@ -120,7 +117,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Monitor and report on the performance and governance outcomes of invested subnets.
 - **Key Project Area:** Smart Agents Investment & Governance
 
-### 9. Tools Marketplace for Smart Agents Lead
+### Tools Marketplace for Smart Agents Lead
 - **Role Name:** Tools Marketplace for Smart Agents Lead
 - **Description:** Manages the development and operation of a marketplace for finding and installing tools on smart agents, enhancing their capabilities and interoperability within the DAO's ecosystem.
 - **Responsibilities:**
@@ -129,7 +126,7 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Coordinate with developers and smart agent owners to enrich the marketplace offerings.
 - **Key Project Area:** Smart Agents Tools Distribution
 
-### 10. Smart Agents Marketplace Manager
+### Smart Agents Marketplace Manager
 - **Role Name:** Smart Agents Marketplace Manager
 - **Description:** Leads the operation of a marketplace for hiring smart agents, facilitating transactions and engagements between smart agent developers and users seeking to employ agent services for monetary compensation.
 - **Responsibilities:**
