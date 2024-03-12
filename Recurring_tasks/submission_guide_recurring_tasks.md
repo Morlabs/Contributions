@@ -40,26 +40,14 @@ NB: The Estimated Monthly Value you enter on an application, even if that applic
 
 Once setup, your stream will run continously and transfer tokens to each you each block. Being appointed for a Recurring Task still requires monthly work submissions. You are required to make your monthly submission within 7 days of the end of each month, otherwise your stream will be cancelled. 
 
-## Submission Process
+### Where do I make the monthly submission?
 
-### Step 1: Prepare Your Contribution Report
-
-Before submitting, prepare a detailed report of your contributions over the month, including:
+Copy the [Monthly Contribution Template](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/monthly_contributions/Template_month.md), fill it out with your own information to record what you have done in a given month. This includes; 
 
 - Summary of tasks completed.
 - Links to deliverables, discussions, or any relevant work evidence.
 - Any metrics or outcomes resulting from your contributions (if applicable).
 - Reflections or feedback on the tasks (optional but encouraged).
 
-### Step 2: Format Your Submission
+NB: You should use the following file name: "Monthly Contribution Report - [Your Role] - [Month, Year]".
 
-Use the following Markdown template to format your monthly submission. This ensures consistency and ease of review.
-
-(Note: Adjust the nested code block formatting as needed for your specific Markdown viewer or editor to avoid rendering issues.)
-
-### Step 3: Submit Your Report
-
-Create a new issue in the designated GitHub repository with your formatted report. Use a consistent naming convention for easy identification, such as "Monthly Contribution Report - [Your Role] - [Month, Year]".
-
-### Review Process
-The Contribution Review Guild (CRG) will review submitted reports to verify contributions and assess the ongoing impact of your work. Feedback or additional information may be requested. Ensure timely submission to facilitate the review process and subsequent reward disbursement.
