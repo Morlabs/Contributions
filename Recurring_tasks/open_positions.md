@@ -44,6 +44,101 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Manage social media presence and public relations.
   - Coordinate with other teams to ensure alignment of messaging and branding.
 
+# Open Positions at Mor Labs DAO
+
+## 1. Node Repository Manager
+- **Role Name:** Node Repository Manager
+- **Description:** Manages the Node repository, ensuring its development aligns with Mor Labs DAO's technical and strategic goals.
+- **Responsibilities:**
+  - Oversee the development and maintenance of the Node repository.
+  - Coordinate contributions, issue tracking, and feature requests.
+  - Act as the primary point of contact for the Node repository.
+- **GitHub Repo:** [Morlabs/Node](https://github.com/Morlabs/Node)
+
+## 2. Dashboard Repository Manager
+- **Role Name:** Dashboard Repository Manager
+- **Description:** Oversees the Dashboard repository, focusing on the development of user interfaces and experiences.
+- **Responsibilities:**
+  - Guide the Dashboard's design and functionality enhancements.
+  - Manage community feedback to improve usability and features.
+  - Coordinate with other roles for seamless integration of backend services.
+- **GitHub Repo:** [Morlabs/DashBoard](https://github.com/Morlabs/DashBoard)
+
+## 3. Morpheus Mac Repository Manager
+- **Role Name:** Morpheus Mac Repository Manager
+- **Description:** Leads the Morpheus Mac repository, ensuring the project is optimized for macOS environments.
+- **Responsibilities:**
+  - Tailor the Morpheus project for macOS compatibility and performance.
+  - Manage macOS-specific development tasks and contributions.
+  - Liaise with the technical team for cross-platform development strategies.
+- **GitHub Repo:** [Morlabs/Morpheus](https://github.com/Morlabs/Morpheus)
+
+## 4. Smart Contracts Lead
+- **Role Name:** Smart Contracts Lead
+- **Description:** Directs the development and security of the Smart Contracts repository, ensuring alignment with blockchain best practices.
+- **Responsibilities:**
+  - Develop and maintain smart contracts within the DAO's framework.
+  - Ensure security and efficiency of smart contracts through audits and reviews.
+  - Facilitate integration of smart contracts with other DAO operations.
+- **GitHub Repo:** [Morlabs/SmartContracts](https://github.com/Morlabs/SmartContracts)
+
+## 5. Smart Agents Lead
+- **Role Name:** Smart Agents Lead
+- **Description:** Oversees the Smart Agents repository, focusing on the development of autonomous agents for the DAO.
+- **Responsibilities:**
+  - Lead the creation and management of smart agents to automate DAO processes.
+  - Coordinate development efforts to enhance the capabilities of smart agents.
+  - Ensure the interoperability of smart agents with the DAO's ecosystem.
+- **GitHub Repo:** [Morlabs/SmartAgents](https://github.com/Morlabs/SmartAgents)
+
+## 6. Morpheus Linux Repository Manager
+- **Role Name:** Morpheus Linux Repository Manager
+- **Description:** Manages the Morpheus Linux repository, optimizing the project for Linux environments.
+- **Responsibilities:**
+  - Ensure the Morpheus project's compatibility and optimization for Linux distributions.
+  - Oversee Linux-specific development and contributions.
+  - Collaborate with other technical leads for cross-platform consistency.
+- **GitHub Repo:** [Morlabs/MorpheusLinux](https://github.com/Morlabs/MorpheusLinux)
+
+## Additional Roles
+
+### 7. Multi-Agent Framework Tech Lead
+- **Role Name:** Multi-Agent Framework Tech Lead
+- **Description:** Leads the development and integration of multiple smart agents to work collaboratively towards common goals within the DAO's ecosystem.
+- **Responsibilities:**
+  - Architect and develop frameworks that enable seamless interaction and cooperation among smart agents.
+  - Ensure the scalability and security of multi-agent systems.
+  - Facilitate research and development for advanced agent coordination techniques.
+- **Key Project Area:** Smart Agents Collaboration
+
+### 8. Agent Subnet Liquidity Pools Manager
+- **Role Name:** Agent Subnet Liquidity Pools Manager
+- **Description:** Oversees investment in specific smart agents, managing contributions to their governance and liquidity pools to enhance their functionality and utility within the DAO.
+- **Responsibilities:**
+  - Develop and manage liquidity pools for specific smart agents or agent subnets.
+  - Facilitate community involvement in the governance of agent subnets.
+  - Monitor and report on the performance and governance outcomes of invested subnets.
+- **Key Project Area:** Smart Agents Investment & Governance
+
+### 9. Tools Marketplace for Smart Agents Lead
+- **Role Name:** Tools Marketplace for Smart Agents Lead
+- **Description:** Manages the development and operation of a marketplace for finding and installing tools on smart agents, enhancing their capabilities and interoperability within the DAO's ecosystem.
+- **Responsibilities:**
+  - Oversee the creation and maintenance of a tools marketplace platform.
+  - Ensure the quality, compatibility, and security of tools listed in the marketplace.
+  - Coordinate with developers and smart agent owners to enrich the marketplace offerings.
+- **Key Project Area:** Smart Agents Tools Distribution
+
+### 10. Smart Agents Marketplace Manager
+- **Role Name:** Smart Agents Marketplace Manager
+- **Description:** Leads the operation of a marketplace for hiring smart agents, facilitating transactions and engagements between smart agent developers and users seeking to employ agent services for monetary compensation.
+- **Responsibilities:**
+  - Develop and manage a platform for listing and hiring smart agents.
+  - Ensure transparent and fair practices for hiring and compensation of smart agent services.
+  - Monitor and facilitate the resolution of disputes and the enforcement of service agreements.
+- **Key Project Area:** Smart Agents Services Exchange
+
+
 ---
 
 Please note that this list is subject to change as the needs of the DAO evolve. For more detailed information on each role, how to apply, or to suggest new positions, please refer to our [Contribution Guidelines](LINK_TO_CONTRIBUTION_GUIDELINES) or contact us directly through our communication channels.
