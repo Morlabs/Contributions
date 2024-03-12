@@ -51,7 +51,7 @@ Our governance is powered by [Hats Protocol](https://hatsprotocol.xyz), ensuring
 
 ## Conflict Resolution
 
-For disputes, especially regarding CRG decisions, the Arbitration Guild (AG) provides a structured resolution process, aligning with the Mor Labs DAO Constitution and community interests.
+For disputes, especially regarding CRG decisions, the Arbitration Guild (AG) provides a structured resolution process, aligning with the [Mor Labs DAO Constitution](https://github.com/Morlabs/DAO) and community interests.
 
 ## Recurring Task Applications
 
