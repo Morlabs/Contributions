@@ -23,7 +23,7 @@ A Single Task Contribution is compensated with a fixed amount based on an isolat
 
 #### A) Single Task Contributions 
 
-To submit a Single Task Contribution, use the [Single Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/single_tasks.md). 
+To submit a Single Task Contribution, use the [Single Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/single_tasks.md). Make sure you have read the [Single Task Submission Guide](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/submission_guide_recurring_tasks.md)
 
 You will be asked to submit the following:
 
@@ -36,9 +36,7 @@ Ensure your contribution is unique or adds value beyond existing solutions. The 
 
 #### B) Recurring Task Contributions 
 
-To submit a Recurring Task Contribution, use the [Recurring Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/recurring_tasks.md).
-
-
+To submit a Recurring Task Contribution, use the [Recurring Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/recurring_tasks.md). Make sure you have read the [Recurring Task Submission Guide](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/submission_guide_recurring_tasks.md)
 
 ## Governance and Fairness
 
