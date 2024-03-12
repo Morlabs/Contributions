@@ -21,7 +21,7 @@ A Single Task Contribution is compensated with a fixed amount based on an isolat
 
 ### Step 2: Submission Process
 
-#### Single Task Contributions 
+#### A) Single Task Contributions 
 
 To submit a contribution, include the following details:
 
@@ -33,7 +33,7 @@ To submit a contribution, include the following details:
 
 Ensure your contribution is unique or adds value beyond existing solutions. The competitive nature of our system promotes quality and innovation.
 
-#### Recurring Task Contributions 
+#### B) Recurring Task Contributions 
 
 You can view a list of the approved Recurring Task Contributors here. If you'd like to be included on this list, you can make your application here. Note that Recurring Task Contributions are only available for contributors to have at least 3 approved Single Task Contributions. 
 
