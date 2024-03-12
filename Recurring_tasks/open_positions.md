@@ -108,9 +108,9 @@ This document outlines some of the open positions within Mor Labs DAO. This is n
   - Facilitate research and development for advanced agent coordination techniques.
 - **Key Project Area:** Smart Agents Collaboration
 
-### Agent Subnet Liquidity Pools Manager
-- **Role Name:** Agent Subnet Liquidity Pools Manager
-- **Description:** Oversees investment in specific smart agents, managing contributions to their governance and liquidity pools to enhance their functionality and utility within the DAO.
+### Agent Subnet Liquidity Pools Tech Lead
+- **Role Name:** Agent Subnet Liquidity Tech Lead
+- **Description:** Oversees the development of a dApp, similar to [Polymarket](https://polymarket.com/) that lets users financially back a specific Smart Agent in return for a share of the rewards. Each smart agent will have it's own trading pool, enabling the Smart Agent to raise capital, allowing users to place bets on the Smart Agent's performance or provide liquidity to it's pool, or participate in it's governance. 
 - **Responsibilities:**
   - Develop and manage liquidity pools for specific smart agents or agent subnets.
   - Facilitate community involvement in the governance of agent subnets.
