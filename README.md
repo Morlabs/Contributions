@@ -15,7 +15,11 @@ At Mor Labs, your contributions are crucial to our development and growth. You c
 
 Look for opportunities on platforms like Morpheus Dework, within our GitHub repositories, or initiate projects that align with our objectives.
 
-### Step 2: Contribution Submission Process
+Note that Recurring Task Contributions are only available for contributors to have at least 3 approved Single Task Contributions. 
+
+A Single Task Contribution is compensated with a fixed amount based on an isolated task (ex: Translate whitepaper to Russian). By contrast, a Recurring Task Contribution is rewarded with a continous stream to reflect that there are ongoing responsibilities to this recurring task that require continous attention (ex: Discord community management). 
+
+#### Single Task Contributions 
 
 To submit a contribution, include the following details:
 
@@ -27,9 +31,13 @@ To submit a contribution, include the following details:
 
 Ensure your contribution is unique or adds value beyond existing solutions. The competitive nature of our system promotes quality and innovation.
 
-### Step 3: Rewarding Contributions
+#### Recurring Task Contributions 
 
-Submit your contribution along with the expected USD value. The Contribution Review Guild (CRG) will determine the reward based on its impact, which may vary from your expectations.
+You can view a list of the approved Recurring Task Contributors here. If you'd like to be included on this list, you can make your application here. Note that Recurring Task Contributions are only available for contributors to have at least 3 approved Single Task Contributions. 
+
+Stream adjustments, including the creation, amendment or termination of streams to Recurring Task Contributors are made at the end of each month. 
+
+To submit a Recurring Task Contribution for a given month, complete the Monthly submission form. Note, you are required to make your monthly submission within 7 days of the end of each month, otherwise your stream will be cancelled. 
 
 ## Governance and Fairness
 
