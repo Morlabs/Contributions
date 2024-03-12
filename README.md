@@ -23,16 +23,7 @@ A Single Task Contribution is compensated with a fixed amount based on an isolat
 
 #### A) Single Task Contributions 
 
-To submit a Single Task Contribution, use the [Single Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/single_tasks.md). Make sure you have read the [Single Task Submission Guide](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/submission_guide_recurring_tasks.md)
-
-You will be asked to submit the following:
-
-- **Ethereum/Wallet Address:** For reward reception. Include multisig if applicable.
-- **Relevant Links:** Any pertinent issues, tasks, or your contribution link.
-- **Expected Value:** In USD. For recurring tasks, indicate monthly value.
-- **Contribution Description:** Detail the impact and nature of your work.
-
-Ensure your contribution is unique or adds value beyond existing solutions. The competitive nature of our system promotes quality and innovation.
+To submit a Single Task Contribution, use the [Single Task Proof of Submission Table](https://github.com/Morlabs/Contributions/blob/main/single_tasks.md). Make sure you have read the [Single Task Submission Guide](https://github.com/Morlabs/Contributions/blob/main/Single%20Tasks/Single_Task_Submission_Guide.md)
 
 #### B) Recurring Task Contributions 
 
