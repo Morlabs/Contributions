@@ -34,3 +34,4 @@ Please include the "pipe" `|` symbol correctly as seen above so your contributio
 | 0x2ff360B98116119624e3cDD17b2D07EFbe6D6029 | https://github.com/Morlabs/ | 500 | Initial setup to the MorLabs Github | 01/04/2024 |
 | 0x2b629Fd3dE644396AF2787EEba4829d1eA8959A4 | https://github.com/Morlabs/ | 20 | Included the extension for markdown to display the contents properly | 11/04/2024 |
 | 0x2b629Fd3dE644396AF2787EEba4829d1eA8959A4 | https://github.com/Morlabs/ | 50 | Research in deploying a token for MorLabs | 11/04/2024 |
+| 0x2b629Fd3dE644396AF2787EEba4829d1eA8959A4 | https://github.com/Morlabs/SmartContracts | 250 | Deployed Governance Token for MorLabs | 12/04/2024 |
