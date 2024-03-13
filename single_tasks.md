@@ -1,6 +1,6 @@
 ## Contribution Provider - Proof of Contribution Table for single tasks
 
-**Before adding a pull request to this table [please read the BEST PRACTICES GUIDE](https://github.com/Morlabsai/Contributions/blob/main/contribution_guideline.md)**
+**Before adding a pull request to this table [please read the BEST PRACTICES GUIDE](https://github.com/Morlabs/Contributions/blob/main/Single%20Tasks/Single_Task_Submission_Guide.md)**
 
 ## Structuring your Code Contributions.
 All Code Contributions should include the following five elements:
