@@ -27,4 +27,4 @@ Please include the "pipe" `|` symbol correctly as seen above so your contributio
 
 | Wallet Address | Link to Work | Estimated Value (USD) | Description of Contribution                                                                                                                                                                                                                           |
 | -------------- | ------------ |----------  |-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 0xb627956e21Ac0599a9db21BB4A841D49a1c4d27D | https://github.com/MorpheusAIs/Docs/issue/3 | https://github.com/MorpheusAIs/Docs/pull/67 | 100 | WhitePaper translated to Slovenian |
+| 0x2ff360B98116119624e3cDD17b2D07EFbe6D6029 | https://github.com/Morlabs/ | 500 | Initial setup to the MorLabs Github |
