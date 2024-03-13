@@ -32,3 +32,4 @@ Please include the "pipe" `|` symbol correctly as seen above so your contributio
 | Wallet Address | Link to Work | Estimated Value (USD) | Description of Contribution | Date of Contribution |
 | -------------- | ------------ | --------------------- | --------------------------- | ------------------- |
 | 0x2ff360B98116119624e3cDD17b2D07EFbe6D6029 | https://github.com/Morlabs/ | 500 | Initial setup to the MorLabs Github | 01/04/2024 |
+| 0x2b629Fd3dE644396AF2787EEba4829d1eA8959A4 | https://github.com/Morlabs/ | 20 | Included the extension for markdown to display the contents properly | 11/04/2024 |
