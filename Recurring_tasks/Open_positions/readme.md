@@ -1,6 +1,13 @@
 # Open Positions at Mor Labs DAO
 
-This document outlines some of the open positions within Mor Labs DAO. This is not an exhaustive list but highlights roles that the community has identified as needing to be filled. These positions are vital for the ongoing development, governance, and operation of our DAO.
+The comprehensive list of roles, job descriptions, and sub-DAO structures outlined above is not meant to be an exhaustive or definitive representation of all positions and organizational units within this DAO. Instead, it serves as a foundational framework, providing a starting point for the DAO's operations and governance.
+
+It's important to note that the DAO's structure, roles, and sub-DAOs are intended to be fluid and adaptable, evolving organically based on the needs, goals, and collective wisdom of its members. The beauty of a decentralized autonomous organization lies in its ability to embrace change, foster innovation, and empower its community to shape its direction.
+
+Any contributor or stakeholder within the DAO is encouraged to propose new roles, sub-DAOs, or restructuring initiatives that they believe would benefit the organization and further its mission. These proposals can be submitted through the established governance processes, allowing the community to deliberate, refine, and collectively decide on their implementation.
+
+Additionally, individuals with unique skill sets or specialized expertise not covered by the existing roles are welcome to propose the creation of new positions tailored to their capabilities. 
+
 
 ## Available Positions
 
