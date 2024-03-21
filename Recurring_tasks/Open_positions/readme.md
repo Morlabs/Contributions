@@ -8,7 +8,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Protocol council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Protocol%20council%20members.md)
 - [Core Smart Contract Developers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Contract%20Developer.md)
 - [AI/ML Researcher and Data Scientists](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/AI-ml%20researcher.md)
-- Security Auditors
+- [Security Auditors](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/security%20auditor.md)
 
 ### Governance Sub-DAO
 - Governance council members
