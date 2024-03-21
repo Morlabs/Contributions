@@ -5,7 +5,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 ## Available Positions
 
 ### Protocol Sub-DAO
-- Protocol council members
+- [Protocol council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Protocol%20council%20members.md)
 - Core Smart Contract Developers
 - Frontend Developers
 - Designers
