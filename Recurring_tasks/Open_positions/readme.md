@@ -11,7 +11,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Security Auditors](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/security%20auditor.md)
 
 ### Governance Sub-DAO
-- Governance council members
+- [Governance council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Governance%20Council%20Member.md)
 - Governance Facilitators
 
 ### DeFi Sub-DAO
