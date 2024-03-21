@@ -53,7 +53,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Multi-Agent Framework Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Multi-Agent%20Framework%20Lead.md)
 - [Cross-chain Capital Expansion Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Cross-chain%20Capital%20Expansion%20Lead)
 - [Tools Marketplace Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Tools%20Marketplace%20for%20Smart%20Agents%20Lead.md)
-- Smart Agents Marketplace Lead
+- [Smart Agents Marketplace Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Agents%20Marketplace%20Lead)
 
 
 It's important to note that the DAO's structure, roles, and sub-DAOs are intended to be fluid and adaptable, evolving organically based on the needs, goals, and collective wisdom of its members. The beauty of a decentralized autonomous organization lies in its ability to embrace change, foster innovation, and empower its community to shape its direction.
