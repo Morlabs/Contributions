@@ -13,23 +13,28 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - Security Auditors
 
 ### Governance Sub-DAO
+- Governance council members
 - Governance Facilitators
 
 ### DeFi Sub-DAO
+- DeFi council members
 - DeFi Investment Managers
 - DeFi Liquidity Managers
 - Financial analysts
 
 ### Community Sub-DAO
+- Community council members
 - Community Managers
 - Content marketers
 - Social media managers
 - Event managers
 
 ### Ethics Sub-DAO
+- Ethics council members
 - AI Ethics Advisors
 
 ### Talent Sub-DAO
+- Talent council members
 - Talent Acquisition Specialists
 - Developer relations
 - Offboarding Specialists
@@ -37,6 +42,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - Knowledge Base Curators
 
 ### Product Sub-DAOs
+- Product council members
 - Product Managers
 - Product Feedback Analysts
 - Project Managers
