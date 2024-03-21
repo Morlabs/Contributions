@@ -50,7 +50,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [dAPP Integration specialists](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/dApp%20Integration%20Specialist.md)
 - [Dashboard Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Dashboard%20Manager.md)
 - [Smart Agent Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Agent%20lead.md)
-- Multi-Agent Framework Lead
+- [Multi-Agent Framework Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Multi-Agent%20Framework%20Lead.md)
 - Cross-chain Capital Expansion Lead
 - Tools Marketplace Lead
 - Smart Agents Marketplace Lead
