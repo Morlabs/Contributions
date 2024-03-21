@@ -23,7 +23,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 ### Community Sub-DAO
 - [Community council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Community%20Council%20Member.md)
 - [Community Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Community%20Manager.md)
-- Content marketers
+- [Content marketers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Content%20Marketer.md)
 - Social media managers
 - Event managers
 
