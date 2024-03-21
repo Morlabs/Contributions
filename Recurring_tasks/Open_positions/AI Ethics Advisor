@@ -1,0 +1,35 @@
+## Role Overview:
+As an AI Ethics Advisor within the Ethics & Compliance Sub-DAO, your role is pivotal in guiding the ethical development, deployment, and use of AI technologies within Trinity DAO. You will ensure that AI projects align with ethical standards and principles, fostering trust and integrity in our innovations.
+
+## Responsibilities:
+
+- **Ethical AI Framework Development:** Craft and refine ethical guidelines specific to AI development and usage within the DAO, ensuring they adhere to global ethical standards.
+- **Advisory and Guidance:** Provide expert advice on ethical considerations for AI projects, helping teams navigate the complexities of ethical AI design and implementation.
+- **Risk Assessment:** Conduct thorough ethical risk assessments for AI initiatives, identifying potential ethical dilemmas and proposing mitigation strategies.
+- **Collaboration and Education:** Work closely with AI developers, researchers, and project teams to embed ethical considerations into the AI lifecycle. Lead educational efforts to raise awareness about AI ethics within the DAO.
+- **Monitoring and Compliance:** Monitor ongoing AI projects for ethical compliance, ensuring that they remain aligned with the DAO's ethical framework and adjusting policies as the field of AI ethics evolves.
+
+## Qualifications:
+
+- Deep knowledge of AI ethics, including familiarity with current debates, guidelines, and frameworks in the field.
+- Experience in ethical risk assessment, preferably with a background in AI, machine learning, or a related technical field.
+- Strong analytical and problem-solving skills, capable of identifying and addressing ethical issues in complex AI systems.
+- Excellent communication skills, with the ability to articulate ethical concepts clearly to a non-specialist audience.
+- A commitment to fostering ethical, transparent, and responsible AI development within a decentralized, community-driven context.
+
+## Application Process:
+
+#### Fork the Repository
+To start your application, **fork the Open Positions repository** to your GitHub account. This provides a space for you to prepare your application.
+
+#### Create a New File for Your Application
+In your forked repository, **create a Markdown (.md) file** named `Ethics-Compliance-Sub-DAO-AIEthicsAdvisor_Application_[YourGitHubUsername].md`. This organization helps us efficiently manage applications.
+
+#### Fill Out Your Application
+Follow the **template provided in the README** of the Open Positions repository. Ensure you cover your personal background, your interest in the AI Ethics Advisor role, qualifications, and experiences that highlight your expertise in AI ethics.
+
+#### Submit a Pull Request
+After completing your application, **submit a pull request (PR)** to the original Open Positions repository. Title your PR clearly, such as "Application for AI Ethics Advisor by @YourGitHubUsername," to officially submit your application.
+
+#### Review Process
+Your application will be reviewed on GitHub, where we value **transparent feedback and discussions**. We look forward to understanding how your expertise in AI ethics can contribute to responsible and ethical AI development within our DAO.
