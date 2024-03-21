@@ -43,7 +43,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Product council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Product%20Council%20members.md)
 - [Product Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Product%20Manager.md)
 - [Product Feedback Analysts](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Product%20Feedback%20Analyst.md)
-- Project Managers
+- [Project Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Project%20Manager.md)
 - Design Researchers
 - Designers
 - [Frontend Developers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Frontend%20Developers.md)
