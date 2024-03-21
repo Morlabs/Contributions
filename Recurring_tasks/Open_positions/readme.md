@@ -28,7 +28,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Event managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Event%20Manager)
 
 ### Ethics Sub-DAO
-- Ethics council members
+- [Ethics council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Ethics%20Council%20Member.md)
 - AI Ethics Advisors
 
 ### Talent Sub-DAO
