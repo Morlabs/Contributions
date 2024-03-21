@@ -36,7 +36,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Talent Acquisition Specialists](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Talent%20Acquisition%20Specialist.md)
 - [Developer relations](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Developer%20Relations.md)
 - [Offboarding Specialists](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Offboarding%20Specialist.md)
-- Knowledge Transfer Managers
+- [Knowledge Transfer Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Knowledge%20Transfer%20Manager.md)
 - Knowledge Base Curators
 
 ### Product Sub-DAOs
