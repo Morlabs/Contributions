@@ -18,7 +18,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [DeFi council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/DeFi%20Council%20Member.md)
 - [DeFi Investment Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/DeFi%20Investment%20Manager.md)
 - [DeFi Liquidity Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/DeFi%20Liquidity%20Manager.md)
-- Financial analysts
+- [Financial analysts](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Financial%20Analyst.md)
 
 ### Community Sub-DAO
 - Community council members
