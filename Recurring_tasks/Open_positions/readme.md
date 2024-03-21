@@ -29,7 +29,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 
 ### Ethics Sub-DAO
 - [Ethics council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Ethics%20Council%20Member.md)
-- AI Ethics Advisors
+- [AI Ethics Advisors](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/AI%20Ethics%20Advisor)
 
 ### Talent Sub-DAO
 - Talent council members
