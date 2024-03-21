@@ -13,7 +13,7 @@ As a Talent Acquisition Specialist within the Talent & Knowledge Sub-DAO, you ar
 
 - Proven experience in talent acquisition, recruitment, or a related field, with a track record of successfully sourcing and hiring candidates in a competitive market.
 - Excellent communication and interpersonal skills, capable of building strong relationships with candidates and stakeholders.
-- Knowledge of the blockchain, crypto, and DeFi sectors is advantageous, allowing for better alignment with industry-specific talent requirements.
+- Knowledge of the AI, blockchain, crypto, and DeFi sectors is advantageous, allowing for better alignment with industry-specific talent requirements.
 - Strong organizational and project management skills, with the ability to handle multiple recruitment processes simultaneously.
 - A commitment to diversity and inclusion, with experience implementing strategies to attract a diverse range of candidates.
 
