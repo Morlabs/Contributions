@@ -49,7 +49,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [UX/UI Designers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/UX-UI%20Designer.md)
 - [dAPP Integration specialists](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/dApp%20Integration%20Specialist.md)
 - [Dashboard Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Dashboard%20Manager.md)
-- Smart Agent Lead
+- [Smart Agent Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Agent%20lead.md)
 - Multi-Agent Framework Lead
 - Cross-chain Capital Expansion Lead
 - Tools Marketplace Lead
