@@ -1,5 +1,5 @@
 ## Role Overview:
-As an AI/ML Researcher and Data Scientist within the Tech Sub-DAO, you will harness the power of artificial intelligence and machine learning to drive innovation and enhance the capabilities of Trinity DAO's projects. This role is perfect for someone passionate about using data-driven insights to solve complex problems and advance the frontier of decentralized technology.
+As an AI/ML Researcher and Data Scientist within the Protocol Sub-DAO, you will harness the power of artificial intelligence and machine learning to drive innovation and enhance the capabilities of Trinity DAO's projects. This role is perfect for someone passionate about using data-driven insights to solve complex problems and advance the frontier of decentralized technology.
 
 ## Responsibilities:
 
@@ -23,7 +23,7 @@ As an AI/ML Researcher and Data Scientist within the Tech Sub-DAO, you will harn
 To kick off your application, **fork the Open Positions repository** to your GitHub account, creating a personal workspace.
 
 #### Create a New File for Your Application
-In your forked repository, **create a Markdown (.md) file** named `Tech-Sub-DAO-AIMLResearcher_Application_[YourGitHubUsername].md`. This organization helps us efficiently review applications.
+In your forked repository, **create a Markdown (.md) file** named `Protocol-Sub-DAO-AIMLResearcher_Application_[YourGitHubUsername].md`. This organization helps us efficiently review applications.
 
 #### Fill Out Your Application
 Refer to the **template provided in the README** of the Open Positions repository for guidance. Your application should detail your personal information, interest in the role, qualifications, relevant experiences, and links to your past work.
