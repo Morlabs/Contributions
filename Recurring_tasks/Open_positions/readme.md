@@ -48,7 +48,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - Project Managers
 - Design Researchers
 - Designers
-- Frontend Developers
+- [Frontend Developers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Frontend%20Developers.md)
 - UX/UI Designers
 - dAPP Integration specialists
 
