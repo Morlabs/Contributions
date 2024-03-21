@@ -32,7 +32,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [AI Ethics Advisors](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/AI%20Ethics%20Advisor)
 
 ### Talent Sub-DAO
-- Talent council members
+- [Talent council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Talent%20Council%20Member.md)
 - Talent Acquisition Specialists
 - Developer relations
 - Offboarding Specialists
