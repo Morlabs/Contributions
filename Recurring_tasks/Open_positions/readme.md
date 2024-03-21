@@ -41,6 +41,19 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 
 ### Product Sub-DAOs
 - [Product council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Product%20Council%20members.md)
+
+#### Existing products
+- [Dashboard Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Dashboard%20Manager.md)
+- [Smart Agent Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Agent%20lead.md)
+- [Multi-Agent Framework Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Multi-Agent%20Framework%20Lead.md)
+- [Cross-chain Capital Expansion Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Cross-chain%20Capital%20Expansion%20Lead)
+- [Tools Marketplace Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Tools%20Marketplace%20for%20Smart%20Agents%20Lead.md)
+- [Smart Agents Marketplace Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Agents%20Marketplace%20Lead)
+
+#### General applications 
+
+Applications for the following positions will be forwarded ot the Product council members. If there is a specific product you would like to work on, make this known in your application. 
+
 - [Product Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Product%20Manager.md)
 - [Product Feedback Analysts](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Product%20Feedback%20Analyst.md)
 - [Project Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Project%20Manager.md)
@@ -48,12 +61,6 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Frontend Developers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Frontend%20Developers.md)
 - [UX/UI Designers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/UX-UI%20Designer.md)
 - [dAPP Integration specialists](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/dApp%20Integration%20Specialist.md)
-- [Dashboard Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Dashboard%20Manager.md)
-- [Smart Agent Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Agent%20lead.md)
-- [Multi-Agent Framework Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Multi-Agent%20Framework%20Lead.md)
-- [Cross-chain Capital Expansion Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Cross-chain%20Capital%20Expansion%20Lead)
-- [Tools Marketplace Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Tools%20Marketplace%20for%20Smart%20Agents%20Lead.md)
-- [Smart Agents Marketplace Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Agents%20Marketplace%20Lead)
 
 
 It's important to note that the DAO's structure, roles, and sub-DAOs are intended to be fluid and adaptable, evolving organically based on the needs, goals, and collective wisdom of its members. The beauty of a decentralized autonomous organization lies in its ability to embrace change, foster innovation, and empower its community to shape its direction.
