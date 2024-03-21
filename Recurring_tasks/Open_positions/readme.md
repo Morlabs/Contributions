@@ -52,7 +52,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Smart Agent Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Smart%20Agent%20lead.md)
 - [Multi-Agent Framework Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Multi-Agent%20Framework%20Lead.md)
 - [Cross-chain Capital Expansion Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Cross-chain%20Capital%20Expansion%20Lead)
-- Tools Marketplace Lead
+- [Tools Marketplace Lead](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Tools%20Marketplace%20for%20Smart%20Agents%20Lead.md)
 - Smart Agents Marketplace Lead
 
 
