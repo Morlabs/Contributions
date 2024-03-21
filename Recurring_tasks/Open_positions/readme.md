@@ -12,7 +12,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 
 ### Governance Sub-DAO
 - [Governance council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Governance%20Council%20Member.md)
-- Governance Facilitators
+- [Governance Facilitators](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Governance%20Facilitator.md)
 
 ### DeFi Sub-DAO
 - DeFi council members
