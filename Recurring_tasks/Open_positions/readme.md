@@ -45,10 +45,9 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Product Feedback Analysts](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Product%20Feedback%20Analyst.md)
 - [Project Managers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Project%20Manager.md)
 - [Design Researchers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Design%20Researcher.md)
-- Designers
 - [Frontend Developers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Frontend%20Developers.md)
 - [UX/UI Designers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/UX-UI%20Designer.md)
-- dAPP Integration specialists
+- [dAPP Integration specialists](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/dApp%20Integration%20Specialist.md)
 
 It's important to note that the DAO's structure, roles, and sub-DAOs are intended to be fluid and adaptable, evolving organically based on the needs, goals, and collective wisdom of its members. The beauty of a decentralized autonomous organization lies in its ability to embrace change, foster innovation, and empower its community to shape its direction.
 
