@@ -1,6 +1,6 @@
 # Open Positions at Trinity DAO
 
-The comprehensive list of roles, job descriptions, and sub-DAO structures outlined above is not meant to be an exhaustive or definitive representation of all positions and organizational units within this DAO. Instead, it serves as a foundational framework, providing a starting point for the DAO's operations and governance.
+The comprehensive list of roles, job descriptions, and sub-DAO structures outlined below is not meant to be an exhaustive or definitive representation of all positions and organizational units within this DAO. Instead, it serves as a foundational framework, providing a starting point for the DAO's operations and governance.
 
 ## Available Positions
 
