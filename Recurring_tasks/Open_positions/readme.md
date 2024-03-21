@@ -40,7 +40,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Knowledge Base Curators](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Knowledge%20Base%20Curator.md)
 
 ### Product Sub-DAOs
-- Product council members
+- [Product council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Product%20Council%20members.md)
 - Product Managers
 - Product Feedback Analysts
 - Project Managers
