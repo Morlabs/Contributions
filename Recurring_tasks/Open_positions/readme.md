@@ -21,7 +21,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Financial analysts](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Financial%20Analyst.md)
 
 ### Community Sub-DAO
-- Community council members
+- [Community council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Community%20Council%20Member.md)
 - Community Managers
 - Content marketers
 - Social media managers
