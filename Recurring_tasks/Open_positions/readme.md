@@ -47,7 +47,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 - [Design Researchers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Design%20Researcher.md)
 - Designers
 - [Frontend Developers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Frontend%20Developers.md)
-- UX/UI Designers
+- [UX/UI Designers](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/UX-UI%20Designer.md)
 - dAPP Integration specialists
 
 It's important to note that the DAO's structure, roles, and sub-DAOs are intended to be fluid and adaptable, evolving organically based on the needs, goals, and collective wisdom of its members. The beauty of a decentralized autonomous organization lies in its ability to embrace change, foster innovation, and empower its community to shape its direction.
