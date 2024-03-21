@@ -34,7 +34,7 @@ The comprehensive list of roles, job descriptions, and sub-DAO structures outlin
 ### Talent Sub-DAO
 - [Talent council members](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Talent%20Council%20Member.md)
 - [Talent Acquisition Specialists](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Talent%20Acquisition%20Specialist.md)
-- Developer relations
+- [Developer relations](https://github.com/Morlabs/Contributions/blob/main/Recurring_tasks/Open_positions/Developer%20Relations.md)
 - Offboarding Specialists
 - Knowledge Transfer Managers
 - Knowledge Base Curators
